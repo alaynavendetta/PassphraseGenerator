@@ -5,7 +5,7 @@ By: Alayna Ferdarko
 Welcome to the third (and possibly most awesome) version of the Passphrase Generator! 🎉 This time, we're bringing:
 - A sleek GUI built with `tkinter` for a snazzy user experience
 - Persistence! Your favorite passphrases can now be saved to a file, so you never lose a good one.
-- A library of 303 words (yes, 303!) for generating ultra-secure passphrases that'll make hackers shake in their boots. I spent entirely too much time raking my brain for fun words over the course of three versions of this program, so please take the time to share this with your friends and maybe consider making a small donation to my [Ko-fi](ko-fi.com/alaynaferdarko), it is very much appreciated!
+- A library of 303 words (yes, 303!) for generating ultra-secure passphrases that'll make hackers shake in their boots. I spent entirely too much time raking my brain for fun words over the course of three versions of this program, so please take the time to share this with your friends and maybe consider making a small donation to my **Ko-fi**, it is very much appreciated!
 
 ## What You Need:
 - Python 3.x (Python 3.6 or higher should work just fine!)
